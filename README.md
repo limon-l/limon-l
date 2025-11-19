@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="/github+banner.png" alt="My Photo" width="700"/>
+</p>
+
+
+<p align="center">
   <img alt="Coding" width="380" src="https://raw.githubusercontent.com/limon-l/limon-l/main/gifs/10_coding_dribbble.gif"/>
 </p>
 

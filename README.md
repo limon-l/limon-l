@@ -10,12 +10,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hello+There!+👋;I'm+Limon+Roy+Apu;Frontend+Developer+From+Bangladesh;Nice+To+Meet+You!"
+      src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hello+There!+👋;I'm+Limon+Roy+Apu;Full+Stack+Developer+From+Bangladesh;Nice+To+Meet+You!"
     >
   </a>
 </h1>
 
-<h3 align="center">A passionate Frontend Developer & CSE student from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate Full Stack Web Developer & CSE student from Bangladesh 🇧🇩</h3>
 
 ---
 

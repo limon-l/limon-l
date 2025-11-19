@@ -41,7 +41,7 @@
 
 <h2 align="center">🔥 Languages, Frameworks & Tools</h2>
 
-<table align="center" width="7">
+<table align="center" width="700">
   <tr>
     <th align="left" width="15%">Languages</th>
     <td align="left" width="85%">
@@ -91,6 +91,16 @@
     </td>
   </tr>
 </table>
+
+
+---
+
+# 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=limon-l&show_icons=true&theme=tokyonight&height=150" />
+</br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limon-l&layout=compact&theme=tokyonight&height=220" />
+</div>
 
 
 

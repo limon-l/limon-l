@@ -10,7 +10,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Hello+There!+👋;I'm+Limon+Roy+Apu;Full+Stack+Web+Developer+From+Bangladesh;Nice+To+Meet+You!"
+      src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=Hello+There!+👋;I'm+Limon+Roy+Apu;Full+Stack+Web+Developer+From+Bangladesh;Nice+To+Meet+You!"
     >
   </a>
 </h1>
@@ -41,56 +41,60 @@
 
 <h2 align="center">🔥 Languages, Frameworks & Tools</h2>
 
-<table align="center" width="700">
+<div align="center">
+
+<table>
   <tr>
-    <th align="left" width="15%">Languages</th>
-    <td align="left" width="85%">
-      <div style="display:flex; gap:40px; flex-wrap:nowrap; justify-content:flex-start; overflow-x:auto; padding:10px 0; width:100%;">
-        <div style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50"><br>HTML5</div>
-        <div style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50"><br>CSS3</div>
-        <div style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50"><br>JavaScript</div>
-        <div style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"><br>Python</div>
-        <div style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50"><br>C</div>
-        <div style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50"><br>C++</div>
-        <div style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50"><br>Java</div>
+    <th align="center">Languages</th>
+    <td align="center">
+      <div style="display:flex; gap:25px; flex-wrap:wrap; justify-content:center;">
+        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50"><br>HTML5</div>
+        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50"><br>CSS3</div>
+        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50"><br>JavaScript</div>
+        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"><br>Python</div>
+        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50"><br>C</div>
+        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50"><br>C++</div>
+        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50"><br>Java</div>
       </div>
     </td>
   </tr>
 
   <tr>
-    <th align="left">Frameworks / Libraries</th>
-    <td align="left">
-      <div style="display:flex; gap:40px; flex-wrap:nowrap; justify-content:flex-start; overflow-x:auto; padding:10px 0; width:100%;">
-        <div style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50"><br>React</div>
-        <div style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="50"><br>Bootstrap</div>
-        <div style="text-align:center;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50"><br>Tailwind CSS</div>
-        <div style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50"><br>Node.js</div>
+    <th align="center">Frameworks / Libraries</th>
+    <td align="center">
+      <div style="display:flex; gap:25px; flex-wrap:wrap; justify-content:center;">
+        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50"><br>React</div>
+        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="50"><br>Bootstrap</div>
+        <div><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50"><br>Tailwind CSS</div>
+        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50"><br>Node.js</div>
       </div>
     </td>
   </tr>
 
   <tr>
-    <th align="left">Databases</th>
-    <td align="left">
-      <div style="display:flex; gap:40px; flex-wrap:nowrap; justify-content:flex-start; overflow-x:auto; padding:10px 0; width:100%;">
-        <div style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50"><br>MySQL</div>
-        <div style="text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50"><br>MongoDB</div>
-        <div style="text-align:center;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="50"><br>Firebase</div>
+    <th align="center">Databases</th>
+    <td align="center">
+      <div style="display:flex; gap:25px; flex-wrap:wrap; justify-content:center;">
+        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50"><br>MySQL</div>
+        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50"><br>MongoDB</div>
+        <div><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="50"><br>Firebase</div>
       </div>
     </td>
   </tr>
 
   <tr>
-    <th align="left">Tools / Platforms</th>
-    <td align="left">
-      <div style="display:flex; gap:40px; flex-wrap:nowrap; justify-content:flex-start; overflow-x:auto; padding:10px 0; width:100%;">
-        <div style="text-align:center;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"><br>Git</div>
-        <div style="text-align:center;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50"><br>Figma</div>
-        <div style="text-align:center;"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="50"><br>VS Code</div>
+    <th align="center">Tools / Platforms</th>
+    <td align="center">
+      <div style="display:flex; gap:25px; flex-wrap:wrap; justify-content:center;">
+        <div><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"><br>Git</div>
+        <div><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50"><br>Figma</div>
+        <div><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="50"><br>VS Code</div>
       </div>
     </td>
   </tr>
 </table>
+
+</div>
 
 
 ---

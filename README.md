@@ -19,7 +19,7 @@
 
 ---
 
-## <p align="center">🚀 About Me</p>
+## 🚀 About Me
 <p align="center">
 🔭 Working on <b>Travel Agency Website, Student Management, BMI App</b><br>
 🌱 Learning <b>React, JavaScript, Node.js, MySQL</b><br>
@@ -29,7 +29,61 @@
 
 ---
 
-## <h2 align="center">🌐 Connect With Me</h2>
+## 🔥 Languages, Frameworks & Tools
+
+<div align="center">
+
+<table>
+
+  <!-- Frontend -->
+  <tr>
+    <th align="center">Frontend</th>
+    <td align="center">
+      <div style="display:flex; gap:25px; flex-wrap:wrap; justify-content:center;">
+        <div><img src="https://skillicons.dev/icons?i=html" height="50"><br>HTML</div>
+        <div><img src="https://skillicons.dev/icons?i=react" height="50"><br>React</div>
+        <div><img src="https://skillicons.dev/icons?i=css" height="50"><br>CSS</div>
+        <div><img src="https://skillicons.dev/icons?i=tailwind" height="50"><br>Tailwind CSS</div>
+        <div><img src="https://skillicons.dev/icons?i=bootstrap" height="50"><br>Bootstrap</div>
+        <div><img src="https://skillicons.dev/icons?i=js" height="50"><br>JavaScript</div>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Backend -->
+  <tr>
+    <th align="center">Backend</th>
+    <td align="center">
+      <div style="display:flex; gap:25px; flex-wrap:wrap; justify-content:center;">
+        <div><img src="https://skillicons.dev/icons?i=nodejs" height="50"><br>Node.js</div>
+        <div><img src="https://skillicons.dev/icons?i=firebase" height="50"><br>Firebase</div>
+        <div><img src="https://skillicons.dev/icons?i=mongodb" height="50"><br>MongoDB</div>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Tools & Platforms -->
+  <tr>
+    <th align="center">Tools & Platforms</th>
+    <td align="center">
+      <div style="display:flex; gap:25px; flex-wrap:wrap; justify-content:center;">
+        <div><img src="https://skillicons.dev/icons?i=git" height="50"><br>Git</div>
+        <div><img src="https://skillicons.dev/icons?i=github" height="50"><br>GitHub</div>
+        <div><img src="https://skillicons.dev/icons?i=vscode" height="50"><br>VS Code</div>
+        <div><img src="https://skillicons.dev/icons?i=netlify" height="50"><br>Netlify</div>
+        <div><img src="https://skillicons.dev/icons?i=vercel" height="50"><br>Vercel</div>
+        <div><img src="https://skillicons.dev/icons?i=figma" height="50"><br>Figma</div>
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/limonroyapu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://fb.com/limonroyapu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
@@ -39,78 +93,32 @@
 
 ---
 
-<h2 align="center">🔥 Languages, Frameworks & Tools</h2>
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=limon-l" alt="GitHub Streak" />
+</p>
 
-<div align="center">
+---
 
-<table>
+## 📈 GitHub Stats
+<table align="center">
   <tr>
-    <th align="center">Languages</th>
-    <td align="center">
-      <div style="display:flex; gap:25px; flex-wrap:wrap; justify-content:center;">
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50"><br>HTML5</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50"><br>CSS3</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50"><br>JavaScript</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"><br>Python</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50"><br>C</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50"><br>C++</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50"><br>Java</div>
-      </div>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limon-l&layout=compact&theme=radical" />
     </td>
-  </tr>
-
-  <tr>
-    <th align="center">Frameworks / Libraries</th>
-    <td align="center">
-      <div style="display:flex; gap:25px; flex-wrap:wrap; justify-content:center;">
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50"><br>React</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="50"><br>Bootstrap</div>
-        <div><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50"><br>Tailwind CSS</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50"><br>Node.js</div>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <th align="center">Databases</th>
-    <td align="center">
-      <div style="display:flex; gap:25px; flex-wrap:wrap; justify-content:center;">
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50"><br>MySQL</div>
-        <div><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50"><br>MongoDB</div>
-        <div><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="50"><br>Firebase</div>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <th align="center">Tools / Platforms</th>
-    <td align="center">
-      <div style="display:flex; gap:25px; flex-wrap:wrap; justify-content:center;">
-        <div><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"><br>Git</div>
-        <div><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50"><br>Figma</div>
-        <div><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="50"><br>VS Code</div>
-      </div>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=limon-l&show_icons=true&theme=radical" />
     </td>
   </tr>
 </table>
 
-</div>
-
-
 ---
-
-# 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limon-l&show_icons=true&theme=tokyonight&height=150" />
-</br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limon-l&layout=compact&theme=tokyonight&height=220" />
-</div>
 
 
 
 ---
 
-## <h2 align="center">💻 Developer Identity (JSON)</h2>
+## 💻 Developer Identity (JSON)
 
 ```javascript
 const limonApu = {

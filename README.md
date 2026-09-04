@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/web_developer.png" alt="My Photo" width="1000" onError="this.style.display='none'"/>
+  <img src="/web_developer.jpg" alt="My Photo" width="1000" onError="this.style.display='none'"/>
 </p>
 
 <p align="center">
